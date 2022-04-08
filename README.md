@@ -1,4 +1,5 @@
 # BinocularvisionRaces
+*.apk app: https://github.com/apps/binocularvisionraces 
 
 Privacy Policy
 
