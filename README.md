@@ -1,5 +1,5 @@
 # BinocularvisionRaces
-*.apk app: https://disk.yandex.ru/d/fySi3cIRuMdKCw 
+*.apk app has been approved and is now live in the GitHub Marketplace:  https://github.com/marketplace/binocularvisionraces
 
 site: https://github.com/apps/binocularvisionraces 
 
