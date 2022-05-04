@@ -2,6 +2,8 @@
 *.apk app has been approved and is now live in the GitHub Marketplace:  https://github.com/marketplace/binocularvisionraces
 
  https://github.com/apps/binocularvisionraces 
+ 
+ Google Play: https://play.google.com/store/apps/details?id=com.treatment.binocularvision.way 
 
 Privacy Policy
 
